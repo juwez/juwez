@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 300" width="1100" height="300" role="img" aria-label="juwez">
+  <style>
+    .rule{stroke:#2A2418;stroke-width:1}
+    .tick{stroke:#3A3121;stroke-width:1.5}
+    .dot{fill:#FFB020;animation:lite .38s ease-out backwards}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px;letter-spacing:.16em}
+    .muted{fill:#8A7F6B}
+    .ink{fill:#EDE6D8}
+    .amber{fill:#FFB020}
+    @keyframes lite{from{opacity:0}to{opacity:1}}
+    @keyframes sweep{
+      0%{transform:translateX(0);opacity:0}
+      10%{opacity:.85}
+      90%{opacity:.85}
+      100%{transform:translateX(580px);opacity:0}
+    }
+    .scan{animation:sweep 1.05s ease-out forwards}
+    @media (prefers-reduced-motion: reduce){
+      .dot{animation:none}
+      .scan{display:none}
+    }
+    .k0{animation-delay:0s}
+    .k1{animation-delay:0.03s}
+    .k2{animation-delay:0.06s}
+    .k3{animation-delay:0.09s}
+    .k4{animation-delay:0.12s}
+    .k6{animation-delay:0.18s}
+    .k7{animation-delay:0.21s}
+    .k8{animation-delay:0.24s}
+    .k9{animation-delay:0.27s}
+    .k10{animation-delay:0.3s}
+    .k12{animation-delay:0.36s}
+    .k13{animation-delay:0.39s}
+    .k14{animation-delay:0.42s}
+    .k15{animation-delay:0.45s}
+    .k16{animation-delay:0.48s}
+    .k18{animation-delay:0.54s}
+    .k19{animation-delay:0.57s}
+    .k20{animation-delay:0.6s}
+    .k21{animation-delay:0.63s}
+    .k22{animation-delay:0.66s}
+    .k24{animation-delay:0.72s}
+    .k25{animation-delay:0.75s}
+    .k26{animation-delay:0.78s}
+    .k27{animation-delay:0.81s}
+    .k28{animation-delay:0.84s}
+  </style>
+  <rect width="1100" height="300" fill="#16130D"/>
+  <g class="tick">
+    <line x1="72" y1="266" x2="72" y2="278"/>
+    <line x1="88" y1="266" x2="88" y2="272"/>
+    <line x1="104" y1="266" x2="104" y2="272"/>
+    <line x1="120" y1="266" x2="120" y2="272"/>
+    <line x1="136" y1="266" x2="136" y2="272"/>
+    <line x1="152" y1="266" x2="152" y2="272"/>
+    <line x1="168" y1="266" x2="168" y2="278"/>
+    <line x1="184" y1="266" x2="184" y2="272"/>
+    <line x1="200" y1="266" x2="200" y2="272"/>
+    <line x1="216" y1="266" x2="216" y2="272"/>
+    <line x1="232" y1="266" x2="232" y2="272"/>
+    <line x1="248" y1="266" x2="248" y2="272"/>
+    <line x1="264" y1="266" x2="264" y2="278"/>
+    <line x1="280" y1="266" x2="280" y2="272"/>
+    <line x1="296" y1="266" x2="296" y2="272"/>
+    <line x1="312" y1="266" x2="312" y2="272"/>
+    <line x1="328" y1="266" x2="328" y2="272"/>
+    <line x1="344" y1="266" x2="344" y2="272"/>
+    <line x1="360" y1="266" x2="360" y2="278"/>
+    <line x1="376" y1="266" x2="376" y2="272"/>
+    <line x1="392" y1="266" x2="392" y2="272"/>
+    <line x1="408" y1="266" x2="408" y2="272"/>
+    <line x1="424" y1="266" x2="424" y2="272"/>
+    <line x1="440" y1="266" x2="440" y2="272"/>
+    <line x1="456" y1="266" x2="456" y2="278"/>
+    <line x1="472" y1="266" x2="472" y2="272"/>
+    <line x1="488" y1="266" x2="488" y2="272"/>
+    <line x1="504" y1="266" x2="504" y2="272"/>
+    <line x1="520" y1="266" x2="520" y2="272"/>
+    <line x1="536" y1="266" x2="536" y2="272"/>
+    <line x1="552" y1="266" x2="552" y2="278"/>
+    <line x1="568" y1="266" x2="568" y2="272"/>
+    <line x1="584" y1="266" x2="584" y2="272"/>
+    <line x1="600" y1="266" x2="600" y2="272"/>
+    <line x1="616" y1="266" x2="616" y2="272"/>
+    <line x1="632" y1="266" x2="632" y2="272"/>
+    <line x1="648" y1="266" x2="648" y2="278"/>
+    <line x1="664" y1="266" x2="664" y2="272"/>
+    <line x1="680" y1="266" x2="680" y2="272"/>
+    <line x1="696" y1="266" x2="696" y2="272"/>
+    <line x1="712" y1="266" x2="712" y2="272"/>
+    <line x1="728" y1="266" x2="728" y2="272"/>
+    <line x1="744" y1="266" x2="744" y2="278"/>
+    <line x1="760" y1="266" x2="760" y2="272"/>
+    <line x1="776" y1="266" x2="776" y2="272"/>
+    <line x1="792" y1="266" x2="792" y2="272"/>
+    <line x1="808" y1="266" x2="808" y2="272"/>
+    <line x1="824" y1="266" x2="824" y2="272"/>
+    <line x1="840" y1="266" x2="840" y2="278"/>
+    <line x1="856" y1="266" x2="856" y2="272"/>
+    <line x1="872" y1="266" x2="872" y2="272"/>
+    <line x1="888" y1="266" x2="888" y2="272"/>
+    <line x1="904" y1="266" x2="904" y2="272"/>
+    <line x1="920" y1="266" x2="920" y2="272"/>
+    <line x1="936" y1="266" x2="936" y2="278"/>
+    <line x1="952" y1="266" x2="952" y2="272"/>
+    <line x1="968" y1="266" x2="968" y2="272"/>
+    <line x1="984" y1="266" x2="984" y2="272"/>
+    <line x1="1000" y1="266" x2="1000" y2="272"/>
+    <line x1="1016" y1="266" x2="1016" y2="272"/>
+  </g>
+  <text x="72" y="56" class="mono amber">CH 01</text>
+  <text x="150" y="56" class="mono muted">RECORDING SINCE 2018</text>
+  <g>
+    <circle class="dot k0" cx="72" cy="186" r="7.5"/>
+    <circle class="dot k1" cx="92" cy="206" r="7.5"/>
+    <circle class="dot k2" cx="112" cy="86" r="7.5"/>
+    <circle class="dot k2" cx="112" cy="206" r="7.5"/>
+    <circle class="dot k3" cx="132" cy="86" r="7.5"/>
+    <circle class="dot k3" cx="132" cy="106" r="7.5"/>
+    <circle class="dot k3" cx="132" cy="126" r="7.5"/>
+    <circle class="dot k3" cx="132" cy="146" r="7.5"/>
+    <circle class="dot k3" cx="132" cy="166" r="7.5"/>
+    <circle class="dot k3" cx="132" cy="186" r="7.5"/>
+    <circle class="dot k4" cx="152" cy="86" r="7.5"/>
+    <circle class="dot k6" cx="192" cy="86" r="7.5"/>
+    <circle class="dot k6" cx="192" cy="106" r="7.5"/>
+    <circle class="dot k6" cx="192" cy="126" r="7.5"/>
+    <circle class="dot k6" cx="192" cy="146" r="7.5"/>
+    <circle class="dot k6" cx="192" cy="166" r="7.5"/>
+    <circle class="dot k6" cx="192" cy="186" r="7.5"/>
+    <circle class="dot k7" cx="212" cy="206" r="7.5"/>
+    <circle class="dot k8" cx="232" cy="206" r="7.5"/>
+    <circle class="dot k9" cx="252" cy="206" r="7.5"/>
+    <circle class="dot k10" cx="272" cy="86" r="7.5"/>
+    <circle class="dot k10" cx="272" cy="106" r="7.5"/>
+    <circle class="dot k10" cx="272" cy="126" r="7.5"/>
+    <circle class="dot k10" cx="272" cy="146" r="7.5"/>
+    <circle class="dot k10" cx="272" cy="166" r="7.5"/>
+    <circle class="dot k10" cx="272" cy="186" r="7.5"/>
+    <circle class="dot k12" cx="312" cy="86" r="7.5"/>
+    <circle class="dot k12" cx="312" cy="106" r="7.5"/>
+    <circle class="dot k12" cx="312" cy="126" r="7.5"/>
+    <circle class="dot k12" cx="312" cy="146" r="7.5"/>
+    <circle class="dot k12" cx="312" cy="166" r="7.5"/>
+    <circle class="dot k12" cx="312" cy="186" r="7.5"/>
+    <circle class="dot k12" cx="312" cy="206" r="7.5"/>
+    <circle class="dot k13" cx="332" cy="186" r="7.5"/>
+    <circle class="dot k14" cx="352" cy="146" r="7.5"/>
+    <circle class="dot k14" cx="352" cy="166" r="7.5"/>
+    <circle class="dot k15" cx="372" cy="186" r="7.5"/>
+    <circle class="dot k16" cx="392" cy="86" r="7.5"/>
+    <circle class="dot k16" cx="392" cy="106" r="7.5"/>
+    <circle class="dot k16" cx="392" cy="126" r="7.5"/>
+    <circle class="dot k16" cx="392" cy="146" r="7.5"/>
+    <circle class="dot k16" cx="392" cy="166" r="7.5"/>
+    <circle class="dot k16" cx="392" cy="186" r="7.5"/>
+    <circle class="dot k16" cx="392" cy="206" r="7.5"/>
+    <circle class="dot k18" cx="432" cy="86" r="7.5"/>
+    <circle class="dot k18" cx="432" cy="106" r="7.5"/>
+    <circle class="dot k18" cx="432" cy="126" r="7.5"/>
+    <circle class="dot k18" cx="432" cy="146" r="7.5"/>
+    <circle class="dot k18" cx="432" cy="166" r="7.5"/>
+    <circle class="dot k18" cx="432" cy="186" r="7.5"/>
+    <circle class="dot k18" cx="432" cy="206" r="7.5"/>
+    <circle class="dot k19" cx="452" cy="86" r="7.5"/>
+    <circle class="dot k19" cx="452" cy="146" r="7.5"/>
+    <circle class="dot k19" cx="452" cy="206" r="7.5"/>
+    <circle class="dot k20" cx="472" cy="86" r="7.5"/>
+    <circle class="dot k20" cx="472" cy="146" r="7.5"/>
+    <circle class="dot k20" cx="472" cy="206" r="7.5"/>
+    <circle class="dot k21" cx="492" cy="86" r="7.5"/>
+    <circle class="dot k21" cx="492" cy="146" r="7.5"/>
+    <circle class="dot k21" cx="492" cy="206" r="7.5"/>
+    <circle class="dot k22" cx="512" cy="86" r="7.5"/>
+    <circle class="dot k22" cx="512" cy="206" r="7.5"/>
+    <circle class="dot k24" cx="552" cy="86" r="7.5"/>
+    <circle class="dot k24" cx="552" cy="186" r="7.5"/>
+    <circle class="dot k24" cx="552" cy="206" r="7.5"/>
+    <circle class="dot k25" cx="572" cy="86" r="7.5"/>
+    <circle class="dot k25" cx="572" cy="166" r="7.5"/>
+    <circle class="dot k25" cx="572" cy="206" r="7.5"/>
+    <circle class="dot k26" cx="592" cy="86" r="7.5"/>
+    <circle class="dot k26" cx="592" cy="146" r="7.5"/>
+    <circle class="dot k26" cx="592" cy="206" r="7.5"/>
+    <circle class="dot k27" cx="612" cy="86" r="7.5"/>
+    <circle class="dot k27" cx="612" cy="126" r="7.5"/>
+    <circle class="dot k27" cx="612" cy="206" r="7.5"/>
+    <circle class="dot k28" cx="632" cy="86" r="7.5"/>
+    <circle class="dot k28" cx="632" cy="106" r="7.5"/>
+    <circle class="dot k28" cx="632" cy="206" r="7.5"/>
+  </g>
+  <rect class="scan" x="57" y="68" width="2" height="156" fill="#FFB020"/>
+  <text x="768" y="128" class="mono muted">ROLE</text>
+  <text x="1028" y="128" text-anchor="end" class="mono ink">BACKEND</text>
+  <text x="768" y="158" class="mono muted">STACK</text>
+  <text x="1028" y="158" text-anchor="end" class="mono ink">.NET  ·  NODE.JS</text>
+  <text x="72" y="240" class="mono ink">SCALABLE SYSTEMS  ·  ARCHITECTURE  ·  AI  ·  GOOD OLD FASHIONED CODING</text>
+</svg>
